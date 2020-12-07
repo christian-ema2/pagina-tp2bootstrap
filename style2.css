@@ -1,0 +1,38 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: url("img/fondo1.jpg");
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+}
+img {
+    width: 200px;
+    display: block;
+    margin: 20px auto;
+}
+h1 {
+    font-family: serif;
+    font-size: 40px;
+}
+
+h3 {
+    font-family: serif;
+    font-size: 30px;
+    color: white
+}
+h5 {
+    font-family: serif;
+    font-size: 10px;
+}
+p {
+    text-align: justify;
+    color: blue
+        
+}
+.address{
+    color: white;
+}
